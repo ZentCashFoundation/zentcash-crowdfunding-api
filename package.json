@@ -1,0 +1,28 @@
+{
+  "name": "zentcash-crowdfunding-api",
+  "version": "0.0.1",
+  "description": "A API JSON that shows you Zent Cash crowdfunding.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZentCashFoundation/zentcash-crowdfunding-api.git"
+  },
+  "keywords": [
+    "zentcash",
+    "crowdfunding"
+  ],
+  "author": "Zent Cash Developers",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/ZentCashFoundation/zentcash-crowdfunding-api/issues"
+  },
+  "homepage": "https://github.com/ZentCashFoundation/zentcash-crowdfunding-api#readme",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "chalk": "4.0.0",
+    "express": "^4.21.1"
+  }
+}
