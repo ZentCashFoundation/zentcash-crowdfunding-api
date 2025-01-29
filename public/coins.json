@@ -1,0 +1,22 @@
+{
+  "coins": [
+    {
+      "name": "Bitcoin",
+      "address": "bc1qxzh342p9alru57gz29jexxlc90rdqzvzlvr6lz",
+      "balance": "0.00000000",
+      "image": "https://i.imgur.com/fGtidqc.png"
+    },
+    {
+      "name": "Litecoin",
+      "address": "ltc1qyaalrjd6qkg9805774hfwtrccwuencz8xeetcz",
+      "balance": "0.00000000",
+      "image": "https://i.imgur.com/I6bIXVd.png"
+    },
+    {
+      "name": "Dogecoin",
+      "address": "D9M7Ef8G134iLeLP5cigvMNZ63gBZGAFJW",
+      "balance": "0.00000000",
+      "image": "https://i.imgur.com/a96ETfY.png"
+    }
+  ]
+}
